@@ -46,14 +46,17 @@ img{
 	height: auto;
 }
 
-#btn_slides {
-	text-align: center;
+
+
+.btn_slides_prev{
+	position:fixed;
+	top:50%;
+	left:0%;
 }
-#btn_slides a.off {
-	cursor: default;
-	opacity: 0.5;
+
+.btn_slides_next{
+	position:fixed;
+	top:50%;
+	left:95%;
 }
-
-
-
 
