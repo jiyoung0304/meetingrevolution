@@ -8,8 +8,8 @@
 	padding: 0;
 }
 body,html{
-	width: 1001px;
-	height: 1201px;
+	width: 999px;
+	height: 1200px;
 }	
 
 img{
@@ -18,21 +18,21 @@ img{
 .clear{clear:both;position:inherit;}
 
 #imgslide{
-	height: 1201px;
+	height: 1200px;
 }
 .imgs{
 	position: relative;
 	overflow: hidden;
-	height: auto;
+	height: 1200px;
 }
 .imgs>img{
-	width: 1001px;
+	width: 999px;
 	position: absolute;
 }
 
 #slides {
-	width: 1001px;
-	height: 1201px;
+	width: 999px;
+	height: 1200px;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -43,8 +43,8 @@ img{
 	display: block;
 }
 #slides li img {
-	width: 1001px;
-	height: 1201px;
+	width: 999px;
+	height: 1200px;
 }
 
 
