@@ -8,17 +8,17 @@
 	padding: 0;
 }
 body,html{
-	width: 100%;
-	height: auto;
+	width: 1001px;
+	height: 1201px;
 }	
 
 img{
-	max-width: 1001px;
+	max-width: 100%;
 }
 .clear{clear:both;position:inherit;}
 
 #imgslide{
-	height: auto;
+	height: 1201px;
 }
 .imgs{
 	position: relative;
@@ -32,7 +32,7 @@ img{
 
 #slides {
 	width: 1001px;
-	height: auto;
+	height: 1201px;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -44,7 +44,7 @@ img{
 }
 #slides li img {
 	width: 1001px;
-	height: auto;
+	height: 1201px;
 }
 
 
