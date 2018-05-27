@@ -8,12 +8,12 @@
 	padding: 0;
 }
 body,html{
-	width: 450px;
-	height:800px;
+	width: 100%;
+	height: auto;
 }	
 
 img{
-	max-width: 450px;
+	max-width: 1001px;
 }
 .clear{clear:both;position:inherit;}
 
@@ -26,12 +26,12 @@ img{
 	height: auto;
 }
 .imgs>img{
-	width: auto;
+	width: 1001px;
 	position: absolute;
 }
 
 #slides {
-	width: auto;
+	width: 1001px;
 	height: auto;
 	margin: 0 auto;
 	padding: 0;
@@ -43,8 +43,8 @@ img{
 	display: block;
 }
 #slides li img {
-	width: 100%;
-	height: 100%;
+	width: 1001px;
+	height: auto;
 }
 
 
