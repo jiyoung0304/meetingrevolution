@@ -8,31 +8,31 @@
 	padding: 0;
 }
 body,html{
-	width: 999px;
-	height: 1200px;
+	width: 1000px;
+	height: auto;
 }	
 
 img{
-	max-width: 999px;
+	max-width: 100%;
 }
 .clear{clear:both;position:inherit;}
 
 #imgslide{
-	height: 1200px;
+	height: auto;
 }
 .imgs{
 	position: relative;
 	overflow: hidden;
-	height: 1200px;
+	height: 1201px;
 }
 .imgs>img{
-	width: 999px;
+	width: 100%;
 	position: absolute;
 }
 
 #slides {
-	width: 999px;
-	height: 1200px;
+	width: 100%;
+	height: auto;
 	margin: 0 auto;
 	padding: 0;
 }
@@ -43,22 +43,22 @@ img{
 	display: block;
 }
 #slides li img {
-	width: 999px;
-	height: 1200px;
+	width: 100%;
+	height: auto;
 }
 
 
 
 .btn_slides_next{
 	position:fixed;
-	top:50%;
-	left:95%;
+	top:45%;
+	left:90%;
 }
 
 
 
 .btn_slides_prev{
 	position:fixed;
-	top:50%;
+	top:45%;
 	left:0%;
 }
